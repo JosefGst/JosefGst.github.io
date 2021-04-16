@@ -17,13 +17,12 @@ The whole project is also hosted on [github](https://github.com/JosefGst/JosefGs
 # Installation (only on Android)
 
 - Download the [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
-![](/images/Download.png "click the download button")
+![](/images/Download.PNG "click the download button")
 
 - Transfer the file to your phone or directly download it on you android phone.
 
 - Locate the file and run it
 
-![](/images/Download.png "click Download")
 ![](/images/install1.jpg "click Allow")
 ![](/images/install2.jpg "click Install")
 ![](/images/install3.jpg "you are good to go, click open")
