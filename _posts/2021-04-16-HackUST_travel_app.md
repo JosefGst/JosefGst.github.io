@@ -23,6 +23,15 @@ The whole project is also hosted on [github](https://github.com/JosefGst/JosefGs
 
 - Transfer the file to your phone or directly download it on you android phone.
 
+- Locate the file and run it
+
+- ![](/images/install1.jpg "click Allow")
+
+- ![](/images/install2.jpg "click Install")
+
+- ![](/images/install3.jpg "you are good to go, click open")
+You should be welcomed by the Log in screen wehre you can register with your email and a password. Press the login button after you registerd. Sometimes the login does not happen imidiate. Please try to press log in after a few seconds.
+
 
 
 # Gode Blocks of App Inventor
