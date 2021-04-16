@@ -22,9 +22,20 @@ You can use *italics*, **bold**, `code font text`, and create [links](https://ww
 ## Downloads
 
 - [Code Blocks PNG](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
-- [Screenshots PNG](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/)
-- [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/TURU_v1_3.aia)
+- [Screenshots PNG](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
+- [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.aia)
 - [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
+
+
+# Gode Blocks of App Inventor
+
+![](/images/code_blocks/Screen1_blocks.png "Code blocks for Log in screen")
+![](/images/code_blocks/Screen2_blocks.png "Code blocks for screen 2")
+![](/images/code_blocks/Screen3_blocks.png "Code blocks for screen 3")
+![](/images/code_blocks/Screen4_blocks.png "Code blocks for screen 4")
+![](/images/code_blocks/Screen5_blocks.png "Code blocks for screen 5")
+![](/images/code_blocks/ScreenChat_blocks.png "Code blocks for Chatroom")
+
 
 And a numbered list:
 
