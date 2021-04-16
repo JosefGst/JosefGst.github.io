@@ -2,12 +2,12 @@
 
 ![](/images/logo.jpg)
 
-How to install and run our App:
+# How to install and run our App:
 
 1. TOC
 {:toc}
 
-## Basic setup
+## Downloads
 
 Download the `sdfk` 
 
@@ -23,7 +23,7 @@ You can use *italics*, **bold**, `code font text`, and create [links](https://ww
 
 Here's a list:
 
-- item 1
+- [links](https://github.com/JosefGst/JosefGst.github.io/tree/master/images)
 - item 2
 
 And a numbered list:
