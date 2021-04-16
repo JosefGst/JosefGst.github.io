@@ -7,6 +7,8 @@
 
 [Youtube intro](https://www.youtube.com/watch?v=pyHOgmPWlUo)
 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=pyHOgmPWlUo/0.jpg)](https://www.youtube.com/watch?v=pyHOgmPWlUo)
+
 The whole project was developed with [MIT App Inventor](https://appinventor.mit.edu/) and is also hosted on [github](https://github.com/JosefGst/JosefGst.github.io).
 For the app we utilized two great extensions developed by [mirxtrem_apps](https://community.thunkable.com/u/mirxtrem_apps/activity) to eneble the app with user login, authentication and store pictures in firebaseDB. All other functions are standard in App Invnentor.
 Extensions:
