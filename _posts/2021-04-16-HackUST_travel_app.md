@@ -4,19 +4,17 @@ The whole project is also hosted on [github](https://github.com/JosefGst/JosefGs
 
 ![](/images/logo.jpg)
 
-# Content
-
 1. TOC
 {:toc}
 
-## Downloads
+# Downloads
 
 - [PNG's for Code Blocks](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
 - [PNG's for Screenshots](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
 - [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.aia)
 - [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
 
-## Installation (only on Android)
+# Installation (only on Android)
 
 - Download the [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
 ![](/images/Download.png "click the download button")
@@ -44,15 +42,14 @@ You should be welcomed by the Log in screen wehre you can registered with your e
 ![](/images/code_blocks/ScreenChat_blocks.png "Code blocks for Chatroom")
 
 
-## Screen shots of the screens
+# Screen shots of the screens
 
 ![](/images/screenshots/Login1.jpg "Login1")
 ![](/images/screenshots/Login2.jpg "Login2")
 ![](/images/screenshots/screen2.jpg "screen2")
 ![](/images/screenshots/screen3.jpg "screen3")
 ![](/images/screenshots/screen4.jpg "screen4")
-![](/images/screenshots/screen5.jpg "screen5")
-![](/images/screenshots/screencomment.jpg "comment")
+![](/images/screenshots/comment.jpg "comment")
 ![](/images/screenshots/chatroom.jpg "chatroom")
 
 
