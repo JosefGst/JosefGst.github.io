@@ -20,10 +20,11 @@ Extensions:
 # Downloads
 
 - [PPT](https://hkustconnect-my.sharepoint.com/:p:/g/personal/lllee_connect_ust_hk/EYOSoGMMfktPo6Gzjvj-YAIBhokRkwLcfneXKX14zV5ijg?e=zrkeeN)
+- [Executive summary](https://github.com/JosefGst/JosefGst.github.io/blob/master/HackUST_2021/word/Executive%20Summary_final.docx)
 - [PNG's of Code Blocks](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
 - [PNG's of Screenshots](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
 - [App](https://github.com/JosefGst/JosefGst.github.io/releases/tag/1.0.0)
-- [Executive summary](https://github.com/JosefGst/JosefGst.github.io/tree/master/HackUST_2021/word)
+
 
 
 # Installation (only on Android)
