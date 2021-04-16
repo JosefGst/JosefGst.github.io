@@ -22,13 +22,13 @@ Extensions:
 - [PPT](https://hkustconnect-my.sharepoint.com/:p:/g/personal/lllee_connect_ust_hk/EYOSoGMMfktPo6Gzjvj-YAIBhokRkwLcfneXKX14zV5ijg?e=zrkeeN)
 - [PNG's of Code Blocks](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
 - [PNG's of Screenshots](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
-- [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.aia)
-- [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
+- [App](https://github.com/JosefGst/JosefGst.github.io/releases/tag/1.0.0)
+
 
 # Installation (only on Android)
 
-- Click the link and Download the "App for user .apk" in the Download section.
-![](/images/Download.PNG "click the download button")
+- Click the "App" link in the Download section and Download the TURU_vx_x_x.apk file.
+![](/images/releasesv1_0_0.PNG )
 
 - Transfer the file to your phone or directly download it on you android phone.
 
@@ -42,7 +42,7 @@ You should be welcomed by the Log in screen wehre you can registered with your e
 
 # Developement
 
-Download the [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.aia) here or in the Download section and import it into App Inventor. Your are good to go and can start develop.
+Download the [TURU_vx_x_x.aia](https://github.com/JosefGst/JosefGst.github.io/releases/tag/1.0.0) from the Download section and import it into App Inventor. Check the file ending, it need to be .aia. Your are good to go and can start develop.
 
 
 # Code Blocks 
