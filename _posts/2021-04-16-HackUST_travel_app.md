@@ -5,6 +5,7 @@
 
 # Introduction
 
+[Youtube intro](https://www.youtube.com/watch?v=pyHOgmPWlUo)
 The whole project was developed with [MIT App Inventor](https://appinventor.mit.edu/) and is also hosted on [github](https://github.com/JosefGst/JosefGst.github.io).
 For the app we utilized two great extensions developed by [mirxtrem_apps](https://community.thunkable.com/u/mirxtrem_apps/activity) to eneble the app with user login, authentication and store pictures in firebaseDB. All other functionality is standard in App Invnentor.
 Extensions:
@@ -17,6 +18,7 @@ Extensions:
 
 # Downloads
 
+- [PPT](https://hkustconnect-my.sharepoint.com/:p:/g/personal/lllee_connect_ust_hk/EYOSoGMMfktPo6Gzjvj-YAIBhokRkwLcfneXKX14zV5ijg?e=zrkeeN)
 - [PNG's of Code Blocks](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
 - [PNG's of Screenshots](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
 - [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.aia)
@@ -37,6 +39,9 @@ Extensions:
 You should be welcomed by the Log in screen wehre you can registered with your email and a password. Press the login button after you registerd. Sometimes the login does not happen imidiate. Please try to press log in again after a few seconds.
 ![](/images/screenshots/Login1.jpg "Login screen")
 
+# Developement
+
+Download the [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.aia) here or in the Download section and import it into App Inventor. Your are good to go and can start develop.
 
 
 # Gode Blocks 
