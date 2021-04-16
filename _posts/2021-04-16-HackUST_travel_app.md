@@ -24,7 +24,7 @@ Extensions:
 
 # Installation (only on Android)
 
-- Click the link and Download the [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
+- Click the link and Download the "App for user .apk" in the Download section.
 ![](/images/Download.PNG "click the download button")
 
 - Transfer the file to your phone or directly download it on you android phone.
