@@ -1,6 +1,9 @@
 # HackUST 2021
 
-The whole project is also hosted on [github](https://github.com/JosefGst/JosefGst.github.io).
+The whole project was developed with [MIT App Inventor](https://appinventor.mit.edu/) and is also hosted on [github](https://github.com/JosefGst/JosefGst.github.io).
+For the app we utilized two great extensions developed by [mirxtrem_apps](https://community.thunkable.com/u/mirxtrem_apps/activity) to eneble the app with user login, authentication and store pictures in firebaseDB. All other functionality is standard in App Invnentor.
+- [Firebase Authentication V.3.0](https://community.thunkable.com/t/free-firebase-authentication-v-3-0-update-link/8543)
+- [FirebaseStorage Extension v2.0](https://community.thunkable.com/t/free-firebasestorage-extension-v2-0-new-version/8544)
 
 ![](/images/logo.jpg)
 
@@ -16,7 +19,7 @@ The whole project is also hosted on [github](https://github.com/JosefGst/JosefGs
 
 # Installation (only on Android)
 
-- Download the [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
+- Click the link and Download the [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
 ![](/images/Download.PNG "click the download button")
 
 - Transfer the file to your phone or directly download it on you android phone.
