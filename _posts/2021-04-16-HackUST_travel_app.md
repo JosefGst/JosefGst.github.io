@@ -23,7 +23,7 @@ Extensions:
 - [PNG's of Code Blocks](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
 - [PNG's of Screenshots](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
 - [App](https://github.com/JosefGst/JosefGst.github.io/releases/tag/1.0.0)
-- [App](https://github.com/JosefGst/JosefGst.github.io/releases/tag/1.0.0)
+- [Executive summary](https://github.com/JosefGst/JosefGst.github.io/tree/master/HackUST_2021/word)
 
 
 # Installation (only on Android)
