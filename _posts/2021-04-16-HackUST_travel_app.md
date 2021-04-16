@@ -1,30 +1,28 @@
 # HackUST 2021
 
+The whole project is also hosted on [github](https://github.com/JosefGst/JosefGst.github.io).
+
 ![](/images/logo.jpg)
 
-# How to install and run our App:
+# Content
 
 1. TOC
 {:toc}
 
 ## Downloads
 
-Download the `sdfk` 
-
-
-
-## Installation (only on Android phone)
-
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
-
----
-
-## Downloads
-
-- [Code Blocks PNG](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
-- [Screenshots PNG](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
+- [PNG's for Code Blocks](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
+- [PNG's for Screenshots](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
 - [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.aia)
 - [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
+
+## Installation (only on Android)
+
+- Download the [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
+![](/images/Download.png "click the download button")
+
+- Transfer the file to your phone or directly download it on you android phone.
+
 
 
 # Gode Blocks of App Inventor
@@ -37,12 +35,17 @@ You can use *italics*, **bold**, `code font text`, and create [links](https://ww
 ![](/images/code_blocks/ScreenChat_blocks.png "Code blocks for Chatroom")
 
 
-And a numbered list:
+## Screen shots of the screens
 
-1. item 1
-1. item 2
+![](/images/screenshots/Login1.png "Login1")
+![](/images/screenshots/Login2.png "Login2")
+![](/images/screenshots/screen2.png "screen2")
+![](/images/screenshots/screen3.png "screen3")
+![](/images/screenshots/screen4.png "screen4")
+![](/images/screenshots/screen5.png "screen5")
+![](/images/screenshots/screencomment.png "comment")
+![](/images/screenshots/chatroom.png "chatroom")
 
-## Boxes and stuff
 
 > This is a quotation
 
