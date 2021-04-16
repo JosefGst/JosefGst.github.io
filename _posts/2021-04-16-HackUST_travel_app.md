@@ -25,12 +25,12 @@ The whole project is also hosted on [github](https://github.com/JosefGst/JosefGs
 
 - Locate the file and run it
 
-- ![](/images/install1.jpg "click Allow")
-
-- ![](/images/install2.jpg "click Install")
-
-- ![](/images/install3.jpg "you are good to go, click open")
-You should be welcomed by the Log in screen wehre you can register with your email and a password. Press the login button after you registerd. Sometimes the login does not happen imidiate. Please try to press log in after a few seconds.
+![](/images/Download.png "click Download")
+![](/images/install1.jpg "click Allow")
+![](/images/install2.jpg "click Install")
+![](/images/install3.jpg "you are good to go, click open")
+You should be welcomed by the Log in screen wehre you can registered with your email and a password. Press the login button after you registerd. Sometimes the login does not happen imidiate. Please try to press log in again after a few seconds.
+![](/images/screenshots/Login1.jpg "Login1")
 
 
 
@@ -46,51 +46,13 @@ You should be welcomed by the Log in screen wehre you can register with your ema
 
 ## Screen shots of the screens
 
-![](/images/screenshots/Login1.png "Login1")
-![](/images/screenshots/Login2.png "Login2")
-![](/images/screenshots/screen2.png "screen2")
-![](/images/screenshots/screen3.png "screen3")
-![](/images/screenshots/screen4.png "screen4")
-![](/images/screenshots/screen5.png "screen5")
-![](/images/screenshots/screencomment.png "comment")
-![](/images/screenshots/chatroom.png "chatroom")
+![](/images/screenshots/Login1.jpg "Login1")
+![](/images/screenshots/Login2.jpg "Login2")
+![](/images/screenshots/screen2.jpg "screen2")
+![](/images/screenshots/screen3.jpg "screen3")
+![](/images/screenshots/screen4.jpg "screen4")
+![](/images/screenshots/screen5.jpg "screen5")
+![](/images/screenshots/screencomment.jpg "comment")
+![](/images/screenshots/chatroom.jpg "chatroom")
 
-
-> This is a quotation
-
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
-## Images
-
-![](/images/logo.png "fast.ai's logo")
-
-## Code
-
-General preformatted text:
-
-    # Do a thing
-    do_thing()
-
-Python code and output:
-
-```python
-# Prints '2'
-print(1+1)
-```
-
-    2
-
-## Tables
-
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
-
-## Footnotes
-
-[^1]: This is the footnote.
 
