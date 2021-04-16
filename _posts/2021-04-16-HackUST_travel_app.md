@@ -30,7 +30,7 @@ The whole project is also hosted on [github](https://github.com/JosefGst/JosefGs
 ![](/images/install2.jpg "click Install")
 ![](/images/install3.jpg "you are good to go, click open")
 You should be welcomed by the Log in screen wehre you can registered with your email and a password. Press the login button after you registerd. Sometimes the login does not happen imidiate. Please try to press log in again after a few seconds.
-![](/images/screenshots/Login1.jpg "Login1")
+![](/images/screenshots/Login1.jpg "Login screen")
 
 
 
