@@ -1,14 +1,19 @@
 # HackUST 2021
 
+1. TOC
+{:toc}
+
+# Introduction
+
 The whole project was developed with [MIT App Inventor](https://appinventor.mit.edu/) and is also hosted on [github](https://github.com/JosefGst/JosefGst.github.io).
 For the app we utilized two great extensions developed by [mirxtrem_apps](https://community.thunkable.com/u/mirxtrem_apps/activity) to eneble the app with user login, authentication and store pictures in firebaseDB. All other functionality is standard in App Invnentor.
+Extensions:
 - [Firebase Authentication V.3.0](https://community.thunkable.com/t/free-firebase-authentication-v-3-0-update-link/8543)
 - [FirebaseStorage Extension v2.0](https://community.thunkable.com/t/free-firebasestorage-extension-v2-0-new-version/8544)
 
 ![](/images/logo.jpg)
 
-1. TOC
-{:toc}
+
 
 # Downloads
 
@@ -34,7 +39,7 @@ You should be welcomed by the Log in screen wehre you can registered with your e
 
 
 
-# Gode Blocks of App Inventor
+# Gode Blocks 
 
 ![](/images/code_blocks/Screen1_blocks.png "Code blocks for Log in screen")
 ![](/images/code_blocks/Screen2_blocks.png "Code blocks for screen 2")
@@ -44,7 +49,7 @@ You should be welcomed by the Log in screen wehre you can registered with your e
 ![](/images/code_blocks/ScreenChat_blocks.png "Code blocks for Chatroom")
 
 
-# Screen shots of the screens
+# Screen shots
 
 ![](/images/screenshots/Login1.jpg "Login1")
 ![](/images/screenshots/Login2.jpg "Login2")
