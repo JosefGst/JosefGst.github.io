@@ -17,8 +17,8 @@ Extensions:
 
 # Downloads
 
-- [PNG's for Code Blocks](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
-- [PNG's for Screenshots](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
+- [PNG's of Code Blocks](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/code_blocks)
+- [PNG's of Screenshots](https://github.com/JosefGst/JosefGst.github.io/tree/master/images/screenshots)
 - [App for development .aia](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.aia)
 - [App for user .apk](https://github.com/JosefGst/JosefGst.github.io/tree/master/TURU_v1_3.apk)
 
