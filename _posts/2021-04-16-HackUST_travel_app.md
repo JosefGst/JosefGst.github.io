@@ -27,7 +27,7 @@ Extensions:
 
 # Installation (only on Android)
 
-- Click the "App" link in the Download section and Download the TURU_vx_x_x.apk file.
+- Click the `App` link in the Download section and Download the `TURU_vx_x_x.apk` file.
 ![](/images/releasesv1_0_0.PNG )
 
 - Transfer the file to your phone or directly download it on you android phone.
@@ -42,7 +42,7 @@ You should be welcomed by the Log in screen wehre you can registered with your e
 
 # Developement
 
-Download the [TURU_vx_x_x.aia](https://github.com/JosefGst/JosefGst.github.io/releases/tag/1.0.0) from the Download section and import it into App Inventor. Check the file ending, it need to be .aia. Your are good to go and can start develop.
+Download the [TURU_vx_x_x.aia](https://github.com/JosefGst/JosefGst.github.io/releases/tag/1.0.0) from the Download section and import it into App Inventor. Check the file ending, it need to be `.aia`. Your are good to go and can start develop.
 
 
 # Code Blocks 
