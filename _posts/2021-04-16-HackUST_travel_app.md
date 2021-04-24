@@ -7,15 +7,16 @@
 
 ### TURU_CyberBug2021 (HackUST2021)
 
+A travelling app 
+
 [![TURU_CyberBug2021 HackUST2021](/HackUST_2021/images/youtube.PNG)](https://www.youtube.com/watch?v=pyHOgmPWlUo)
 
 The whole project was developed with [MIT App Inventor](https://appinventor.mit.edu/) and is also hosted on [github](https://github.com/JosefGst/JosefGst.github.io).
 For the app we utilized two great extensions developed by [mirxtrem_apps](https://community.thunkable.com/u/mirxtrem_apps/activity) to eneble the app with user login, authentication and store pictures in firebaseDB. All other functions are standard in App Invnentor.
+
 Extensions:
 - [Firebase Authentication V.3.0](https://community.thunkable.com/t/free-firebase-authentication-v-3-0-update-link/8543)
 - [FirebaseStorage Extension v2.0](https://community.thunkable.com/t/free-firebasestorage-extension-v2-0-new-version/8544)
-
-![](/HackUST_2021/images/logo.jpg)
 
 
 
