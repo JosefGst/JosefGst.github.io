@@ -1,6 +1,6 @@
 # Fastai course
 
-[Fastai](https://www.fast.ai/) is a great course about Pytorch ML.
+[Fastai](https://www.fast.ai/) is a great course about ML using Pytorch.
 
 1. TOC
 {:toc}
