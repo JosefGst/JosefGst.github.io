@@ -7,10 +7,11 @@
 
 ### TURU_CyberBug2021 (HackUST2021)
 
-A travelling app 
+A travelling app, where you can find recommendations about secret spots in HK.
 
 [![TURU_CyberBug2021 HackUST2021](/HackUST_2021/images/youtube.PNG)](https://www.youtube.com/watch?v=pyHOgmPWlUo)
 
+TURU stands for tourist-guru.
 The whole project was developed with [MIT App Inventor](https://appinventor.mit.edu/) and is also hosted on [github](https://github.com/JosefGst/JosefGst.github.io).
 For the app we utilized two great extensions developed by [mirxtrem_apps](https://community.thunkable.com/u/mirxtrem_apps/activity) to eneble the app with user login, authentication and store pictures in firebaseDB. All other functions are standard in App Invnentor.
 
