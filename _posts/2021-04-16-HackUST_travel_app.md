@@ -65,12 +65,9 @@ Download the [TURU_vx_x_x.aia](https://github.com/JosefGst/JosefGst.github.io/re
 
 # Screen shots
 
-![](/HackUST_2021/images/screenshots/Login1.jpg "Login1")
-![](/HackUST_2021/images/screenshots/Login2.jpg "Login2")
-![](/HackUST_2021/images/screenshots/screen2.jpg "screen2")
-![](/HackUST_2021/images/screenshots/screen3.jpg "screen3")
-![](/HackUST_2021/images/screenshots/screen4.jpg "screen4")
-![](/HackUST_2021/images/screenshots/comment.jpg "comment")
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/HackUST_2021/images/screenshots/Login1.jpg "Login1")  |  ![](/HackUST_2021/images/screenshots/Login2.jpg "Login2")  |  ![](/HackUST_2021/images/screenshots/screen2.jpg "screen2")
+![](/HackUST_2021/images/screenshots/screen3.jpg "screen3")  |  ![](/HackUST_2021/images/screenshots/screen4.jpg "screen4")  |  ![](/HackUST_2021/images/screenshots/comment.jpg "comment")
 ![](/HackUST_2021/images/screenshots/chatroom.jpg "chatroom")
 
 # Team
