@@ -26,9 +26,9 @@ This funcition is quite useless and we have never touched it, since the oven doe
 
 # A look into the Heating Plate
 
-Solarized dark             |  Solarized Ocean
+electric plate             |  heat regulator in electric plate
 :-------------------------:|:-------------------------:
-![](/Oven/images/heatplate.jpg)  |  ![](/Oven/images/heat_plate_regulator.jpg "heat regulator in electric plate")
+![](/Oven/images/heatplate.jpg)  |  ![](/Oven/images/heat_plate_regulator.jpg )
 
 The heating plate uses a bi metal to regulate the power consumed. When it heats up it will open the switch and the currentflow is disconnected. It will cool down after a while and connect again. It is like a very slow PWM but works fine for very sluggish systems.  
 
