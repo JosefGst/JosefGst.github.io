@@ -71,4 +71,11 @@ Download the [TURU_vx_x_x.aia](https://github.com/JosefGst/JosefGst.github.io/re
 ![](/HackUST_2021/images/screenshots/comment.jpg "comment")
 ![](/HackUST_2021/images/screenshots/chatroom.jpg "chatroom")
 
+# Team
+
+- Lily
+- Nink
+- Eason
+- Jack
+- Josef
 

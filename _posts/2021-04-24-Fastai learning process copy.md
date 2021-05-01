@@ -1,4 +1,4 @@
-# Fastai course
+# Fastai Course
 
 [Fastai](https://www.fast.ai/) is a great course about ML using Pytorch.
 
