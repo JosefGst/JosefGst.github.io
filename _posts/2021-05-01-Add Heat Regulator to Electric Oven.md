@@ -43,3 +43,4 @@ I want to use the bi metal heat regulator in the oven to controll the power inpu
 The power goes into the clock, so I can still set a desiret period of time and forther to the heat regulator to be able to set the temperature. Then the output of the regulator is connected to the heating elements and the lamp. This way the lamp only flashes when the heting elements are fed with electricity, so I know when it is heating and when it is off.
 
 ![](/Oven/images/circuite2.jpg)
+![](/Oven/images/oven_schem.png)
