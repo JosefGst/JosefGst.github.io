@@ -1,0 +1,39 @@
+site_name: Josef's Website
+site_url: https://JosefGst.github.io
+theme: 
+  name: material
+  palette:
+    scheme: default
+    # primary: purple
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
+    - navigation.tracking
+    - navigation.search.highlight
+    - navigation.search.suggest
+    - navigation.search.share
+    - navigation.search.suggest
+    - navigation.search.share
+    - naviagtion.footer
+nav:
+  - Home: index.md
+  - Projects: projects.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JosefGst
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/josef-gstoettner-437630172/
