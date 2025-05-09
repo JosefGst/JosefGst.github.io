@@ -2,7 +2,7 @@
 
 ![profile picture](/images/Profilphoto.jpg){ width="200" }
 
-Hello I am Josef
+Hello I am Josef a tinkerer and learner.
 
 ## :hammer_and_wrench: A few technologies I've been using recently:
 
