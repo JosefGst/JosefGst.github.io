@@ -11,4 +11,4 @@ Hello I am Josef
 * Fusion 360
 * Arduino
 
-## [:fontawesome-solid-file-lines: Resume](https://github.com/JosefGst/resume/blob/main/Resume_Gstoettner_J_2025.pdf)
+## [:page_facing_up: Resume](https://github.com/JosefGst/resume/blob/main/Resume_Gstoettner_J_2025.pdf)
