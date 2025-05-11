@@ -1,4 +1,4 @@
-site_name: Josef's Website
+site_name: Josef's Projects
 site_url: https://JosefGst.github.io
 theme: 
   name: material
@@ -38,13 +38,13 @@ theme:
     - naviagtion.footer
 nav:
   - Home: index.md
-  - Projects: projects.md
-  - Blog:
+  - Projects_old: projects.md
+  - Projects:
     - blog/index.md
 
 plugins:
   - blog:
-      draft: true
+      draft: false
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:

@@ -1,16 +1,14 @@
 ---
-draft: true 
+draft: false 
 date: 2024-01-01
 links:
   - DroneBot Workshop: https://www.youtube.com/watch?v=n_A-jkpjpcM
-  - GreatScott!: (https://www.youtube.com/watch?v=oeNAhP-GIjo)
+  - GreatScott!: https://www.youtube.com/watch?v=oeNAhP-GIjo
 categories:
   - Electronics
 ---
 
 # :electric_plug: Power Supply
-
-January 2024
 
 ![Power Supply Cabeling](images/power_supply/power_supply_1.jpeg){ width="250" }![Power Supply Cabeling](images/power_supply/power_supply_2.jpeg){ width="250" }![Power Supply Cabeling](images/power_supply/power_supply_4.jpeg){ width="250" }
 
