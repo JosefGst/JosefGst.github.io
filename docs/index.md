@@ -3,7 +3,7 @@
 <script data-goatcounter="https://josefgst.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
-![profile picture](/images/Profilphoto.jpg){ width="200" }
+![profile picture](images/Profilphoto.jpg){ width="200" }
 
 Hello I am Josef a tinkerer and learner.
 

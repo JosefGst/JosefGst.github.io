@@ -39,6 +39,18 @@ theme:
 nav:
   - Home: index.md
   - Projects: projects.md
+  - Blog:
+    - blog/index.md
+
+plugins:
+  - blog:
+      draft: true
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - electronics
 
 markdown_extensions:
   - attr_list
@@ -48,7 +60,12 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:gstoettnerjo@gmail.com
     - icon: fontawesome/brands/github
       link: https://github.com/JosefGst
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/josef-gstoettner-437630172/
+    - icon: fontawesome/solid/rss
+      name: Josef's blog on RSS
+      link: https://josefgst.github.io/feed_rss_created.xml
