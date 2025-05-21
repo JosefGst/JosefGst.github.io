@@ -38,7 +38,6 @@ theme:
     - naviagtion.footer
 nav:
   - Home: index.md
-  - Projects_old: projects.md
   - Projects:
     - blog/index.md
 
