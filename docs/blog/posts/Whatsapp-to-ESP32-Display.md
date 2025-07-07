@@ -30,11 +30,11 @@ To get started with this project, you'll need the following hardware components:
 
 In addition to the hardware components, you'll need to install the following software:
 
-- VScode with PLatformIO extension
+- VScode with PLatformIO extension (PlatformIO will install all the necessary libraries for the project)
 - Twilio account (for receiving WhatsApp messages)
 - thing_esp account (for forwarding the twilio message to esp32)
-PlatformIO will install all the necessary libraries for the project.
+
 
 ## :round_pushpin: Conclusion:
 
-The WhatsApp-to-ESP32-Display project is a fun way to display WhatsApp messages on an ESP32-based display. This project is perfect for makers, DIY enthusiasts. Give it a try and bring WhatsApp to life on an ESP32 display! Here's the link to the [Github](https://github.com/JosefGst/Whatsapp-to-ESP32-Display) project!
+The WhatsApp-to-ESP32-Display project is a great way to display WhatsApp messages on an ESP32-based led matrix. This project is perfect for makers, DIY enthusiasts. Give it a try and make your own ESP32 display! Here's the link to my [Github](https://github.com/JosefGst/Whatsapp-to-ESP32-Display) project!
