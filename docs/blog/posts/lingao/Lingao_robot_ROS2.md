@@ -9,10 +9,18 @@ categories:
 
 
 # :robot: Lingao robot ROS2
-[![gps navigation](gifs/gps_navigation.gif)](https://github.com/JosefGst/lingao_ros2)
+[![gps navigation](assets/gps_navigation.gif)](https://github.com/JosefGst/lingao_ros2)
 
 
 A wannabe beach cleaning Robot but in simulation still roaming the grass. The goal is to use the coverage planner to drive up a specified area and filter big particles out of the sand, like a vacuum cleaning robot but on the beach.
 
 <!-- more -->
+## Nav2
+![lingao@home](assets/lingao@home.gif)
+
+## Rtabmap mapping
+![lingao_rtabmap_mapping_4x](assets/lingao_rtabmap_mapping_4x.gif)
+
+## Rtabmap navigation
+![lingao_rtabmap_nav_4x](assets/lingao_rtabmap_nav_4x.gif)
 
