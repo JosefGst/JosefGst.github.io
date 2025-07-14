@@ -2,17 +2,17 @@
 draft: false 
 date: 2024-02-01
 links:
-  - Github: https://github.com/JosefGst/lingao_ros2
+  - lingao_ros2: https://github.com/JosefGst/lingao_ros2
 categories:
   - Robotics
 ---
 
 
 # :robot: Lingao robot ROS2
-[![gps navigation](assets/gps_navigation.gif)](https://github.com/JosefGst/lingao_ros2)
+![gps navigation](assets/gps_navigation.gif)
 
+The vision is to have a robot going up and down the beach. By covering some area it should filter out dirt from the sand and clean up the beach like a vacuum cleaning robot. I tested some methods for SLAM and navigation on the real robot in my living room. The coverage planner and GPS navigation is already implemented in the simulation. However this project is still in progress.
 
-A wannabe beach cleaning Robot but in simulation still roaming the grass. The goal is to use the coverage planner to drive up a specified area and filter big particles out of the sand, like a vacuum cleaning robot but on the beach.
 
 <!-- more -->
 ## Nav2
@@ -23,4 +23,7 @@ A wannabe beach cleaning Robot but in simulation still roaming the grass. The go
 
 ## Rtabmap navigation
 ![lingao_rtabmap_nav_4x](assets/lingao_rtabmap_nav_4x.gif)
+
+:link: Link to the [Github project](https://github.com/JosefGst/lingao_ros2) .
+
 
