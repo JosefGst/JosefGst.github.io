@@ -14,4 +14,4 @@ Hello I am Josef a tinkerer and learner.
 * Fusion 360
 * Arduino
 
-## [:page_facing_up: Resume](https://github.com/JosefGst/resume/blob/main/hipster-cv/main.pdf)
+## [:page_facing_up: Resume](https://github.com/JosefGst/resume/blob/main/hipster-cv/resume_Gstoettner_J_2025.pdf)
