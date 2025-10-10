@@ -13,7 +13,7 @@ categories:
 
 # :pager: Display WhatsApp messages on a LED matrix with ESP32
 
-![esp32 max7219 led matrix](images/esp_twilio/meeting.png)
+![esp32 max7219 led matrix](assets/meeting.png)
 
 Do you need a small and cheap display to show about your status? Like you're in a meeting, on site or on holiday? With this project you can conveniently send a Whatsapp message to twilio, **NO extra mobile App** is required and the message will show up on the LED matrix.
 
