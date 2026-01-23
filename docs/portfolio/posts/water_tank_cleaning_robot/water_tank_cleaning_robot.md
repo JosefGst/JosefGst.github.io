@@ -1,6 +1,6 @@
 ---
-draft: false 
-date: 2022-04-01
+draft: true 
+date: 2025-09-09
 links:
   - autorace: https://github.com/JosefGst/autorace
 categories:
@@ -8,7 +8,7 @@ categories:
 ---
 
 
-# :red_car: Delivery Robot
+# :sweat_drops: Water Tank Cleaning Robot
 
 [![rc-car race](assets/rc_car.gif)](https://github.com/JosefGst/autorace)
 

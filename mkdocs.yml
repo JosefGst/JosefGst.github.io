@@ -49,7 +49,7 @@ plugins:
       draft: false
   - blog:
       blog_dir: portfolio
-      draft: false
+      draft: true
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:

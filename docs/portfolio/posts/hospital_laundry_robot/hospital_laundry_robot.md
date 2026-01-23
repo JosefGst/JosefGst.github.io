@@ -1,5 +1,5 @@
 ---
-draft: false 
+draft: true 
 date: 2023-04-01
 links:
   - autorace: https://github.com/JosefGst/autorace
@@ -8,7 +8,7 @@ categories:
 ---
 
 
-# :red_car: Hospital Laundry Robot
+# :hospital: Hospital Laundry Robot
 [![rc-car race](assets/rc_car.gif)](https://github.com/JosefGst/autorace)
 
 
