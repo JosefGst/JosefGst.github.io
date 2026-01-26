@@ -30,3 +30,11 @@ mkdocs serve
 ```bash
 pre-commit run --all-files
 ```
+
+## Install the git hook scripts
+
+    pre-commit install  # (runs every time you commit in git)
+
+## To update this file:
+
+    pre-commit autoupdate
