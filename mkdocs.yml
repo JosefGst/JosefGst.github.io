@@ -35,7 +35,7 @@ theme:
     - navigation.search.share
     - navigation.search.suggest
     - navigation.search.share
-    - naviagtion.footer
+    - navigation.footer
 nav:
   - Home: index.md
   - Projects:

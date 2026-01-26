@@ -12,3 +12,22 @@ repos:
     - id: markdown-link-check
       args: [-q]
       files: ^(README\.md|docs/.*\.md)$
+
+# Spellcheck in comments and docs
+# skipping of *.svg files is not working...
+-   repo: https://github.com/codespell-project/codespell
+    rev: v2.4.1
+    hooks:
+      - id: codespell
+        args: ['--write-changes', '--uri-ignore-words-list=ist', '-L manuel']
+        exclude: CHANGELOG\.rst|\.(svg|pyc|drawio)$
+
+-   repo: https://github.com/python-jsonschema/check-jsonschema
+    rev: 0.36.0
+    hooks:
+      - id: check-github-workflows
+        args: ["--verbose"]
+      - id: check-github-actions
+        args: ["--verbose"]
+      - id: check-dependabot
+        args: ["--verbose"]
