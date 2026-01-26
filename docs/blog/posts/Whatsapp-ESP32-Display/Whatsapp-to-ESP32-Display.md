@@ -1,5 +1,5 @@
 ---
-draft: false 
+draft: false
 date: 2025-06-24
 links:
   - Whatsapp-to-ESP32-Display: https://github.com/JosefGst/Whatsapp-to-ESP32-Display
@@ -37,6 +37,6 @@ In addition to the hardware components, you'll need to install the following sof
 
 ## :round_pushpin: Conclusion:
 
-The WhatsApp-to-ESP32-Display project is a great way to display WhatsApp messages on an ESP32-based led matrix. This project is perfect for makers, DIY enthusiasts. Give it a try and make your own ESP32 display! 
+The WhatsApp-to-ESP32-Display project is a great way to display WhatsApp messages on an ESP32-based led matrix. This project is perfect for makers, DIY enthusiasts. Give it a try and make your own ESP32 display!
 
 :link: Link to the [Github project](https://github.com/JosefGst/Whatsapp-to-ESP32-Display)

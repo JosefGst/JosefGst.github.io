@@ -1,5 +1,5 @@
 ---
-draft: false 
+draft: false
 date: 2024-02-01
 links:
   - lingao_ros2: https://github.com/JosefGst/lingao_ros2
@@ -25,5 +25,3 @@ The vision is to have a robot going up and down the beach. By covering some area
 ![lingao_rtabmap_nav_4x](assets/lingao_rtabmap_nav_4x.gif)
 
 :link: Link to the [Github project](https://github.com/JosefGst/lingao_ros2) .
-
-

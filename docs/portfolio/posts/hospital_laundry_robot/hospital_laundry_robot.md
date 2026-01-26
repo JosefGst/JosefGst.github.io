@@ -1,5 +1,5 @@
 ---
-draft: true 
+draft: true
 date: 2023-04-01
 links:
   - autorace: https://github.com/JosefGst/autorace
@@ -12,7 +12,7 @@ categories:
 [![rc-car race](assets/rc_car.gif)](https://github.com/JosefGst/autorace)
 
 
-In this competition organized at HKUST I trained the [Jetson-racer](https://github.com/NVIDIA-AI-IOT/jetracer) to drive autonomously, avoid obstacles and overtake other cars. Basically I drove along the race course and recorded images with the corresponding throttle and steering values. This data is fed into the a ML model and let it train. It was much fun and I resliced what machine learning is capable of but also it's limitations. 
+In this competition organized at HKUST I trained the [Jetson-racer](https://github.com/NVIDIA-AI-IOT/jetracer) to drive autonomously, avoid obstacles and overtake other cars. Basically I drove along the race course and recorded images with the corresponding throttle and steering values. This data is fed into the a ML model and let it train. It was much fun and I resliced what machine learning is capable of but also it's limitations.
 
 <!-- more -->
 

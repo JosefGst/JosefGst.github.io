@@ -1,6 +1,6 @@
 site_name: Josef's Projects
 site_url: https://JosefGst.github.io
-theme: 
+theme:
   name: material
   palette:
     # Palette toggle for automatic mode
@@ -11,7 +11,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -22,7 +22,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-        
+
   features:
     - navigation.tabs
     - navigation.top
@@ -51,7 +51,7 @@ plugins:
       blog_dir: portfolio
       draft: true
   - rss:
-      match_path: blog/posts/.* 
+      match_path: blog/posts/.*
       date_from_meta:
         as_creation: date
       categories:
