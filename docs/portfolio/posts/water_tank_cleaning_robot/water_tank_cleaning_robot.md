@@ -48,11 +48,4 @@ To address this, we are developing an autonomous cleaning robot using a high-pre
 
 ## 🏆 Lessons Learned
 
-  - 🌳 Behavior trees enable fast orchestration and easy modification of all the smallest behavior actions. But for non-blocking, long-lasting tasks, ROS action servers are the way to go. The behavior-task will act only as a remote switch to control the action server. That way it won't block the tree.
-  - 🧹 Open nav2 based on fields2cover is reliable and works out of the box with nav2. Although it is possible to define additional polygons inside the main field as obstacles, paths are still planned through the obstacle area.
-  - 🤯 Obstacle avoidance is not supported in open nav2 coverage planner.
-  - 🐳 The modular Docker environment accelerated development and ensures all dependencies are up to date when deploying to a new environment.
-
-  ## 🏆 Lessons Learned
-
 Building this robot was a crash course in both robotics and humility. I quickly learned that even the most popular tools—like ROS2’s navigation stack and coverage planners—don’t always work as expected. Wrestling with Docker to tame dependency chaos was frustrating at first, but ultimately empowering; it turned what could have been weeks of setup headaches into a streamlined workflow. The biggest surprise was how much behavior trees simplified complex task orchestration, letting me recover from failures and tweak behaviors on the fly. Every setback, from hardware upgrades to planner limitations, forced me to dig deeper and get creative. In the end, the project taught me new tools which I will reuse in future robot building endeavors.
