@@ -16,9 +16,9 @@ categories:
 - [ROS2](https://docs.ros.org/en/jazzy/index.html)
 - C++, Python, Docker
 - [SLAM, Nav2](https://docs.nav2.org/index.html)
+- [ros2_control](https://control.ros.org/rolling/doc/getting_started/getting_started.html)
 - [Gazebo Simulation](https://gazebosim.org/docs/all/getstarted/)
 - [Behavior_tree_cpp](https://www.behaviortree.dev/)
-
 <!-- more -->
 
 
