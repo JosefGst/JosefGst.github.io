@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-09-09
+date: 2026-02-06
 categories:
   - Robotics
   - Hong Kong Center for Construction Robotics | HKCRC
