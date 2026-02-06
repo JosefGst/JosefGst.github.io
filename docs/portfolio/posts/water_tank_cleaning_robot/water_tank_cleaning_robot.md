@@ -1,6 +1,8 @@
 ---
 draft: false
 date: 2026-02-06
+link:
+  - HKCRC: https://www.hkcrc.hk/about-us
 categories:
   - Robotics
   - Hong Kong Center for Construction Robotics | HKCRC
@@ -10,8 +12,10 @@ categories:
 
 # :sweat_drops: Water Tank Cleaning Robot | HKCRC
 
-![full_demo_real_robot](assets/full_demo_real_robot.gif)
+![manual_cleaning](assets/manual_cleaning.jpg)
+Potable water tanks require regular cleaning to ensure water quality and safety. Traditional cleaning methods are labor-intensive, time-consuming, and pose health risks to workers due to exposure to contaminants.
 
+<!-- more -->
 ## 🛠️ Used Technology
 - [ROS2](https://docs.ros.org/en/jazzy/index.html)
 - C++, Python, Docker
@@ -19,18 +23,13 @@ categories:
 - [ros2_control](https://control.ros.org/rolling/doc/getting_started/getting_started.html)
 - [Gazebo Simulation](https://gazebosim.org/docs/all/getstarted/)
 - [Behavior_tree_cpp](https://www.behaviortree.dev/)
-<!-- more -->
 
 
-## ❓ Problem Statement
-
-Potable water tanks require regular cleaning to ensure water quality and safety. Traditional cleaning methods are labor-intensive, time-consuming, and pose health risks to workers due to exposure to contaminants.
-![manual_cleaning](assets/manual_cleaning.jpg)
 
 ## 💡 Proposed Solution
 To address this, we are developing an autonomous cleaning robot using a high-pressure water jet mounted on the robot to clean the tank surfaces effectively. The robot first follows the wall and cleans it's surfaces while mapping the environment. After that, it performs coverage path planning to ensure all areas of the floor and ceiling are cleaned as well.
 
-![manual_cleaning](assets/water_tank_cleaning_demo.gif)
+![water_tank_cleaning_demo](assets/water_tank_cleaning_demo.gif)
 
 
 ## 🤖 My Contributions
@@ -44,6 +43,7 @@ To address this, we are developing an autonomous cleaning robot using a high-pre
   5. After everything worked fine, it was time to challenge the robot—testing in very narrow environments, very large ones, or by adding unmapped obstacles. The coverage planner seemed promising, but it failed spectacularly with obstacle avoidance. The open nav2 coverage planner is based on fields2cover and it works very well to create paths that cover the whole area. Although you can define obstacles in the map, the planner will [not consider holes when path planning #50](https://github.com/open-navigation/opennav_coverage/issues/50). Dynamic obstacle avoidance is also not working; see Issue 👉 [Skip waypoints if occupied #68](https://github.com/open-navigation/opennav_coverage/issues/68). This was a huge setback, since I thought this would work out of the box.
   6. 🤯 I was surprised when obstacle avoidance didn’t work out of the box. After some head-scratching and research, we had to build our own planner. It takes the map image and uses computer vision to create goal poses in a swath pattern style, which can be used by the DWB planner. By following the goal poses, the robot's global planner can replan when the robot gets stuck, and the local planner will avoid unmapped obstacles. It’s not perfect yet—when avoiding obstacles, some areas aren’t covered, but it’s progress.
     ![waypoint_demo](assets/waypoint_demo.gif)
+    ![full_demo_real_robot](assets/full_demo_real_robot.gif)
 
 
 ## 🏆 Lessons Learned

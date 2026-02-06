@@ -10,7 +10,7 @@ repos:
     rev: v3.14.2
     hooks:
     - id: markdown-link-check
-      args: [-q]
+      args: [-q, --config, config.json]
       files: ^(README\.md|docs/.*\.md)$
 
 # Spellcheck in comments and docs
@@ -23,7 +23,7 @@ repos:
         exclude: CHANGELOG\.rst|\.(svg|pyc|drawio)$
 
 -   repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.36.0
+    rev: 0.36.1
     hooks:
       - id: check-github-workflows
         args: ["--verbose"]
