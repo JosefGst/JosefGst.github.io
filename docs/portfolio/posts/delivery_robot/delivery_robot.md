@@ -1,26 +1,50 @@
 ---
-draft: true
 date: 2022-04-01
 links:
-  - autorace: https://github.com/JosefGst/autorace
+  - LSCM: https://www.lscm.hk/en/
 categories:
   - Robotics
+  - Hong Kong Logistics and Supply Chain MultiTech R&D Centre | LSCM
 ---
 
 
-# :robot: Delivery Robot
+# 🤖 Delivery Robot: Collaborative Autonomy
 
-[![rc-car race](assets/rc_car.gif)](https://github.com/JosefGst/autorace)
+<a id="delivery-robot-gif"></a>
 
+![split_screen_delivery](assets/split_screen_delivery.gif)
 
-In this competition organized at HKUST I trained the [Jetson-racer](https://github.com/NVIDIA-AI-IOT/jetracer) to drive autonomously, avoid obstacles and overtake other cars. Basically I drove along the race course and recorded images with the corresponding throttle and steering values. This data is fed into the a ML model and let it train. It was much fun and I resliced what machine learning is capable of but also it's limitations.
+Delivering goods in busy, obstacle-filled environments like airports is a true test of robotics. This project focused on building a delivery robot system that not only navigates complex spaces, but also coordinates with other robots to avoid collisions and maximize efficiency.
 
 <!-- more -->
 
-## :pencil: My takeaways:
+## 🛠️ Technology Stack used
 
-- Most of the time I kept driving without recording any data but just training myself to drive fast and without crashes. Because if you provide bad data to the model it will learn your bad driving skills as well. If you drive slow the car will crash if you speed up the autonomous controller.
-- Lightning condition had a strong influence. It could work perfectly fine in the morning but at a cloudy afternoon the light from the windows changed the perception and the car reacted strangely. Therefore changing the camera settings from RGB to HSV made the images more tolerant to various lightning.
-- All Participants used the default resnet18 model. Only I invested the time to experiment with other models and decided to use Squeeznet. Even though resnet18 had a better accuracy but could only handle 4 fps. With Squeeznet the accuracy was lower meaning sometimes the predicted control values did not match so well with the test data. However with this model I reached up to 15 fps. Which made the car react much quicker to obstacles, turns and other cars. Finally gotten rid of the sluggish agent the rc car could drive much faster as anyone else.
+- 🤖 [ROS/ROS2](https://wiki.ros.org/noetic) (Robot Operating System)
+- 💻 C++, Python
+- 🗺️ [SLAM, Navigation Stack](https://wiki.ros.org/navigation)
+- ⚙️ [ros_control](https://wiki.ros.org/ros_control)
+- 🧪 [Gazebo Simulation](https://gazebosim.org/docs/all/getstarted/)
 
-:link: Link to [Github project](https://github.com/JosefGst/autorace)
+## ⚡ The Challenge
+
+The airport and similar environments posed unique challenges:
+
+- 🗺️ **Multiple Robots kept kissing each other:** Everything worked fine as soon as you just add one more robot into the same operational field. In ROS navigation, each obstacle is treated as static, but people and robots move. That causes them to collide with each other.
+![Deliverybot_crash](assets/Deliverybot_crash.gif)
+- 👀 **Advanced Obstacle Detection:** The delivery robot was equipped with additional depth cameras to detect barrier bands and avoid common obstacles found in airports. The environment was challenging, with frequent blockages and unpredictable obstacles.
+
+
+## 🙋 My Contributions
+
+- 🗺️ **Costmap Layer Development:** Created a custom costmap layer in ROS for multi-robot awareness and dynamic collision avoidance. Each robot dynamically created a prohibited area in front of itself, preventing others from entering and reducing the risk of collisions with moving robots. [Jump to costmap layer GIF](#delivery-robot-gif)
+- 👀 **Sensor Integration and Navigation tuning:** Integrated depth cameras for robust detection of barrier bands and common airport obstacles. Also ported the whole outdated ROS source code to ROS2 and tuned [MPPI](https://docs.nav2.org/configuration/packages/configuring-mppic.html) controller for improved obstacle avoidance in crowded challenging areas.
+
+  ![Deliverybot_many_obstacles](assets/Deliverybot_many_obstacles.gif)
+
+## 📚 Lessons Learned
+
+- 💡 Shared situational awareness between robots dramatically reduces collisions.
+- 👁️ Depth sensing is essential for obstacle detection which can't be detected by 2D Lidars.
+- 🔄 Robot development is hard. How do you know your code works? That's why I always develop in simulation first. Here the Hardware is perfect, if something fails it's for sure my code.
+  ![deliverybot_simulation](assets/deliverybot_simulation.png)
