@@ -13,6 +13,7 @@ categories:
 # :sweat_drops: Water Tank Cleaning Robot | HKCRC
 
 ![water_tank_cleaning_demo](assets/water_tank_cleaning_demo.gif)
+
 At HKCRC we have developed an autonomous cleaning robot for potable water tanks. Equipped with a high-pressure water jet mounted on the robot, it can clean the tank surfaces effectively. The robot first follows the wall and cleans its surfaces while mapping the environment. After that, it performs coverage path planning to ensure all areas of the floor and ceiling are cleaned as well.
 
 <!-- more -->
