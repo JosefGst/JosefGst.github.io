@@ -12,8 +12,8 @@ categories:
 
 # :sweat_drops: Water Tank Cleaning Robot | HKCRC
 
-![manual_cleaning](assets/manual_cleaning.jpg)
-Potable water tanks require regular cleaning to ensure water quality and safety. Traditional cleaning methods are labor-intensive, time-consuming, and pose health risks to workers due to exposure to contaminants.
+![water_tank_cleaning_demo](assets/water_tank_cleaning_demo.gif)
+At HKCRC we have developed an autonomous cleaning robot for potable water tanks. Equipped with a high-pressure water jet mounted on the robot, it can clean the tank surfaces effectively. The robot first follows the wall and cleans its surfaces while mapping the environment. After that, it performs coverage path planning to ensure all areas of the floor and ceiling are cleaned as well.
 
 <!-- more -->
 ## 🛠️ Used Technology
@@ -25,11 +25,9 @@ Potable water tanks require regular cleaning to ensure water quality and safety.
 - [Behavior_tree_cpp](https://www.behaviortree.dev/)
 
 
+![manual_cleaning](assets/manual_cleaning.jpg)
+Potable water tanks require regular cleaning to ensure water quality and safety. Traditional cleaning methods are labor-intensive, time-consuming, and pose health risks to workers due to exposure to contaminants.
 
-## 💡 Proposed Solution
-To address this, we are developing an autonomous cleaning robot using a high-pressure water jet mounted on the robot to clean the tank surfaces effectively. The robot first follows the wall and cleans it's surfaces while mapping the environment. After that, it performs coverage path planning to ensure all areas of the floor and ceiling are cleaned as well.
-
-![water_tank_cleaning_demo](assets/water_tank_cleaning_demo.gif)
 
 
 ## 🤖 My Contributions
