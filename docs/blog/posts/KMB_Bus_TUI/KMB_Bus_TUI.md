@@ -32,5 +32,5 @@ Soon I realized I still need some way to check the bus arrival time for my daily
 
 
 :link: Links:
--  [KMB_Bus_TUI](https://github.com/JosefGst/KMB_Bus_TUI)
--  [Bus_Widget](https://github.com/JosefGst/bus)
+  -  [KMB_Bus_TUI](https://github.com/JosefGst/KMB_Bus_TUI)
+  -  [Bus_Widget](https://github.com/JosefGst/bus)
