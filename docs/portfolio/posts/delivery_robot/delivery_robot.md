@@ -38,7 +38,7 @@ The airport and similar environments posed unique challenges:
 ## 🙋 My Contributions
 
 - 🗺️ **Costmap Layer Development:** Created a custom costmap layer in ROS for multi-robot awareness and dynamic collision avoidance. Each robot dynamically created a prohibited area in front of itself, preventing others from entering and reducing the risk of collisions with moving robots. [Jump to costmap layer GIF](#delivery-robot-gif)
-- 👀 **Sensor Integration and Navigation tuning:** Integrated depth cameras for robust detection of barrier bands and common airport obstacles. Also ported the whole outdated ROS source code to ROS2 and tuned [MPPI](https://docs.nav2.org/configuration/packages/configuring-mppic.html) controller for improved obstacle avoidance in crowded challenging areas.
+- 👀 **Sensor Integration and Navigation tuning:** Integrated depth cameras for robust detection of barrier bands and common airport obstacles. Also ported the whole outdated ROS source code to ROS2 and tuned [MPPI](https://docs.nav2.org/rolling/configuration_and_development/configuration_guide/controller_plugins/mppi_controller/configuring_mppic/) controller for improved obstacle avoidance in crowded challenging areas.
 
   ![Deliverybot_many_obstacles](assets/Deliverybot_many_obstacles.gif)
 

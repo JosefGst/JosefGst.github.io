@@ -6,8 +6,11 @@ Heavily inspired by [knmcguire](https://github.com/knmcguire/knmcguire.github.io
 
 ## Dependencies
 ```
-pip install pre-commit
-npm install -g markdown-link-check
+sudo apt install pipx
+pipx install pre-commit
+pipx ensurepath   # then restart your shell
+sudo apt install nodejs npm
+sudo npm install -g markdown-link-check
 ```
 
 ## Development
