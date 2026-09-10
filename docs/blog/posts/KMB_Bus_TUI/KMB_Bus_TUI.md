@@ -2,8 +2,8 @@
 draft: false
 date: 2026-02-20
 links:
-  - KMB_Bus_TUI: https://github.com/JosefGst/KMB_Bus_TUI
-  - Bus_Widget: https://github.com/JosefGst/bus
+  - KMB_Bus_TUI_github: https://github.com/JosefGst/KMB_Bus_TUI
+  - Bus_Widget_github: https://github.com/JosefGst/bus
 categories:
   - Terminal
   - Android
@@ -11,9 +11,9 @@ categories:
 
 
 # :oncoming_bus: A more convenient way to check the KMB Bus arrival time (HK)
-![TUI](assets/TUI.png)
+![TUI](https://github.com/JosefGst/KMB_Bus_TUI/blob/main/assets/TUI.png?raw=true)
 
-When at work, I wanted a quick way to check the next bus arrivals without opening my phone or a web browser. So, I created a terminal user interface [TUI](https://github.com/JosefGst/KMB_Bus_TUI) application that fetches real-time bus arrival data from the KMB API and displays it in a simple and efficient manner.
+When at work, I wanted a quick way to check the next bus arrivals without opening my phone or a web browser. So, I created a terminal user interface, the [kmb-bus-tui](https://github.com/JosefGst/KMB_Bus_TUI) application that fetches real-time bus arrival data from the KMB API and displays it in a simple and efficient manner.
 
 
 <!-- more -->
@@ -32,5 +32,5 @@ Soon I realized I still need some way to check the bus arrival time for my daily
 
 
 :link: Links:
-  -  [KMB_Bus_TUI](https://github.com/JosefGst/KMB_Bus_TUI)
-  -  [Bus_Widget](https://github.com/JosefGst/bus)
+  -  [KMB_Bus_TUI_github](https://github.com/JosefGst/KMB_Bus_TUI)
+  -  [Bus_Widget_github](https://github.com/JosefGst/bus)
