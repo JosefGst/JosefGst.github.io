@@ -3,7 +3,6 @@ draft: false
 date: 2026-02-06
 link:
   - HKCRC: https://www.hkcrc.hk/about-us
-  - Promotion Video: https://clients.vigoradv.com/innobiz/20260113_WaterTankRobot/20260113_WaterTankCleaningRobot_Eng_Chi.mp4
 categories:
   - Robotics
   - Hong Kong Center for Construction Robotics | HKCRC
@@ -14,8 +13,6 @@ categories:
 # :sweat_drops: Water Tank Cleaning Robot | HKCRC
 
 ![water_tank_cleaning_demo](assets/water_tank_cleaning_demo.gif)
-
-**See the :point_right: [Promotion Video](https://clients.vigoradv.com/innobiz/20260113_WaterTankRobot/20260113_WaterTankCleaningRobot_Eng_Chi.mp4)**
 
 At HKCRC we have developed an autonomous cleaning robot for potable water tanks. Equipped with a high-pressure water jet mounted on the robot, it can clean the tank surfaces effectively. The robot first follows the wall and cleans its surfaces while mapping the environment. After that, it performs coverage path planning to ensure all areas of the floor and ceiling are cleaned as well. At the end the robot goes to the center of the tank and takes pictures in all 4 directions. The pictures will be analyzed by a computer vision model and rates the cleanliness of the tank.
 
