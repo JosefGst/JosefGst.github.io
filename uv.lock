@@ -195,8 +195,8 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "gitpython", specifier = ">=3.1.59" },
-    { name = "mkdocs", specifier = ">=1.6.1" },
-    { name = "mkdocs-material", specifier = ">=9.6.21" },
+    { name = "mkdocs", specifier = ">=1.6.1,<2" },
+    { name = "mkdocs-material", specifier = ">=9.6.21,<10" },
     { name = "mkdocs-rss-plugin", specifier = ">=1.19.0" },
 ]
 

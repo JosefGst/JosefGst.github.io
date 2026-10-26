@@ -5,8 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "mkdocs>=1.6.1",
-    "mkdocs-material>=9.6.21",
+    "mkdocs>=1.6.1,<2",
+    "mkdocs-material>=9.6.21,<10",
     "mkdocs-rss-plugin>=1.19.0",
     "GitPython>=3.1.59",
 ]
